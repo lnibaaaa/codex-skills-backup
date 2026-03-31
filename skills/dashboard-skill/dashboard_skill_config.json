@@ -1,0 +1,10 @@
+{
+  "api": {
+    "public_api_host": "https://datain-api.tap4fun.com",
+    "public_api_prefix": "/public_api",
+    "default_timeout": 30
+  },
+  "web_urls": {
+    "dashboard": "https://datain.tap4fun.com/dashboard"
+  }
+}

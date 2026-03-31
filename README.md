@@ -1,0 +1,93 @@
+# Codex Skills Backup
+
+This repository is a backup/export of the current local Codex skills on this machine.
+
+## Local skills
+
+- `.system`
+- `agents-md`
+- `aspnet-core`
+- `autonomous-skill`
+- `branch-cleaner`
+- `bug-triage`
+- `chatgpt-apps`
+- `ci-fix`
+- `claude-skill`
+- `cloudflare-deploy`
+- `coding-guidelines-gen`
+- `coding-guidelines-verify`
+- `commit-work`
+- `composition-patterns`
+- `create-cli`
+- `create-pr`
+- `dashboard-skill`
+- `deep-research`
+- `dependency-upgrader`
+- `deploy-to-vercel`
+- `dev-browser`
+- `develop-web-game`
+- `doc`
+- `docs-sync`
+- `figma`
+- `figma-code-connect-components`
+- `figma-create-design-system-rules`
+- `figma-create-new-file`
+- `figma-generate-design`
+- `figma-generate-library`
+- `figma-implement-design`
+- `figma-use`
+- `frontend-skill`
+- `gastown`
+- `gh-address-comments`
+- `gh-fix-ci`
+- `imagegen`
+- `jupyter-notebook`
+- `kiro-skill`
+- `linear`
+- `nanobanana-skill`
+- `netlify-deploy`
+- `notion-knowledge-capture`
+- `notion-meeting-intelligence`
+- `notion-research-documentation`
+- `notion-spec-to-implementation`
+- `open-source-maintainer`
+- `orchestration`
+- `pdf`
+- `plan-work`
+- `playwright`
+- `playwright-interactive`
+- `pua`
+- `react-best-practices`
+- `react-native-skills`
+- `rebase-assistant`
+- `regex-builder`
+- `release-notes`
+- `render-deploy`
+- `screenshot`
+- `security-best-practices`
+- `security-ownership-map`
+- `security-threat-model`
+- `sentry`
+- `sessions-to-blog`
+- `slides`
+- `sora`
+- `spec-kit-skill`
+- `speech`
+- `spreadsheet`
+- `transcribe`
+- `ui-ux-pro-max`
+- `vercel-cli-with-tokens`
+- `vercel-deploy`
+- `video-transcript-downloader`
+- `vps-checkup`
+- `web-design-guidelines`
+- `winui-app`
+- `yeet`
+- `youtube-transcribe-skill`
+- `zai-cli`
+
+## External pua repo skills
+
+- `pua`
+- `pua-en`
+- `pua-ja`
