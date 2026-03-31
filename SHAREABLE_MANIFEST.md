@@ -1,43 +1,10 @@
-# Codex Skills Backup
+# Shareable Skill Index
 
-This repository is a backup of the Codex skills currently installed on this machine.
+This file is the cleaner browsing version of the backup.
 
-Repository URL: [https://github.com/lnibaaaa/codex-skills-backup](https://github.com/lnibaaaa/codex-skills-backup)
+## Recommended public-facing groups
 
-## What is included
-
-- `skills/`: the current contents of `~/.codex/skills`
-- `external-pua/`: extra skills copied from the separately installed `pua` repository
-- `MANIFEST.txt`: a flat inventory of everything backed up
-- `SHAREABLE_MANIFEST.md`: a cleaner, categorized index for browsing and sharing
-
-## Current counts
-
-- Local skills: `81`
-- External `pua` skills: `3`
-
-## Structure
-
-```text
-skills/
-  .system/
-  agents-md/
-  ...
-external-pua/
-  pua/
-  pua-en/
-  pua-ja/
-```
-
-## Notes
-
-- This is a machine snapshot, not an official marketplace index.
-- The `.system` folder contains built-in/system skills that were present locally at export time.
-- `external-pua/` is stored separately so it is easy to distinguish from the main local skill directory.
-
-## Category overview
-
-### Core and system
+### System and workflow
 
 - `.system`
 - `agents-md`
@@ -47,7 +14,7 @@ external-pua/
 - `orchestration`
 - `plan-work`
 
-### Coding and engineering
+### Coding and repo work
 
 - `aspnet-core`
 - `branch-cleaner`
@@ -72,7 +39,7 @@ external-pua/
 - `yeet`
 - `zai-cli`
 
-### Frontend, design, and UI
+### Design, frontend, and app building
 
 - `figma`
 - `figma-code-connect-components`
@@ -89,7 +56,7 @@ external-pua/
 - `web-design-guidelines`
 - `winui-app`
 
-### Browser, app, and automation
+### Automation and tooling
 
 - `dashboard-skill`
 - `dev-browser`
@@ -105,7 +72,7 @@ external-pua/
 - `sentry`
 - `vps-checkup`
 
-### Content and media
+### Docs, data, and media
 
 - `doc`
 - `imagegen`
@@ -115,11 +82,12 @@ external-pua/
 - `slides`
 - `sora`
 - `speech`
+- `spreadsheet`
 - `transcribe`
 - `video-transcript-downloader`
 - `youtube-transcribe-skill`
 
-### Cloud, deploy, and platform
+### Platform and deployment
 
 - `cloudflare-deploy`
 - `deploy-to-vercel`
@@ -133,20 +101,16 @@ external-pua/
 - `security-ownership-map`
 - `security-threat-model`
 
-### Productivity and knowledge
+### Knowledge and productivity
 
 - `notion-knowledge-capture`
 - `notion-meeting-intelligence`
 - `notion-research-documentation`
 - `notion-spec-to-implementation`
-- `spreadsheet`
 
-### Special / custom
-
-- `pua`
-
-## External pua repo skills
+### Custom family
 
 - `pua`
-- `pua-en`
-- `pua-ja`
+- `external-pua/pua`
+- `external-pua/pua-en`
+- `external-pua/pua-ja`
