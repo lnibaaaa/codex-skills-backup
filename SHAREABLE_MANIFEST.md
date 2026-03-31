@@ -1,10 +1,10 @@
-# Shareable Skill Index
+# 可分享 Skill 索引
 
-This file is the cleaner browsing version of the backup.
+这个文件是比完整备份更适合浏览和转发的分类版本。
 
-## Recommended public-facing groups
+## 推荐对外浏览的分组
 
-### System and workflow
+### 系统与工作流
 
 - `.system`
 - `agents-md`
@@ -14,7 +14,7 @@ This file is the cleaner browsing version of the backup.
 - `orchestration`
 - `plan-work`
 
-### Coding and repo work
+### 编码与仓库工作
 
 - `aspnet-core`
 - `branch-cleaner`
@@ -39,7 +39,7 @@ This file is the cleaner browsing version of the backup.
 - `yeet`
 - `zai-cli`
 
-### Design, frontend, and app building
+### 设计、前端与应用构建
 
 - `figma`
 - `figma-code-connect-components`
@@ -56,7 +56,7 @@ This file is the cleaner browsing version of the backup.
 - `web-design-guidelines`
 - `winui-app`
 
-### Automation and tooling
+### 自动化与工具链
 
 - `dashboard-skill`
 - `dev-browser`
@@ -72,7 +72,7 @@ This file is the cleaner browsing version of the backup.
 - `sentry`
 - `vps-checkup`
 
-### Docs, data, and media
+### 文档、数据与媒体
 
 - `doc`
 - `imagegen`
@@ -87,7 +87,7 @@ This file is the cleaner browsing version of the backup.
 - `video-transcript-downloader`
 - `youtube-transcribe-skill`
 
-### Platform and deployment
+### 平台与部署
 
 - `cloudflare-deploy`
 - `deploy-to-vercel`
@@ -95,20 +95,20 @@ This file is the cleaner browsing version of the backup.
 - `vercel-cli-with-tokens`
 - `vercel-deploy`
 
-### Security
+### 安全
 
 - `security-best-practices`
 - `security-ownership-map`
 - `security-threat-model`
 
-### Knowledge and productivity
+### 知识与效率
 
 - `notion-knowledge-capture`
 - `notion-meeting-intelligence`
 - `notion-research-documentation`
 - `notion-spec-to-implementation`
 
-### Custom family
+### 自定义家族
 
 - `pua`
 - `external-pua/pua`

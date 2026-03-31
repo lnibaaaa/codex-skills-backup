@@ -1,22 +1,22 @@
-# Codex Skills Backup
+# Codex Skills 备份仓库
 
-This repository is a backup of the Codex skills currently installed on this machine.
+这是当前这台机器上已安装 Codex skills 的一份备份快照。
 
-Repository URL: [https://github.com/lnibaaaa/codex-skills-backup](https://github.com/lnibaaaa/codex-skills-backup)
+仓库地址：[https://github.com/lnibaaaa/codex-skills-backup](https://github.com/lnibaaaa/codex-skills-backup)
 
-## What is included
+## 这里包含什么
 
-- `skills/`: the current contents of `~/.codex/skills`
-- `external-pua/`: extra skills copied from the separately installed `pua` repository
-- `MANIFEST.txt`: a flat inventory of everything backed up
-- `SHAREABLE_MANIFEST.md`: a cleaner, categorized index for browsing and sharing
+- `skills/`：当前 `~/.codex/skills` 下的本地 skills
+- `external-pua/`：从单独安装的 `pua` 仓库中额外导出的 skills
+- `MANIFEST.txt`：完整平铺清单
+- `SHAREABLE_MANIFEST.md`：更适合浏览和分享的分类索引
 
-## Current counts
+## 当前数量
 
-- Local skills: `81`
-- External `pua` skills: `3`
+- 本地 skills：`81`
+- 外部 `pua` skills：`3`
 
-## Structure
+## 目录结构
 
 ```text
 skills/
@@ -29,15 +29,15 @@ external-pua/
   pua-ja/
 ```
 
-## Notes
+## 说明
 
-- This is a machine snapshot, not an official marketplace index.
-- The `.system` folder contains built-in/system skills that were present locally at export time.
-- `external-pua/` is stored separately so it is easy to distinguish from the main local skill directory.
+- 这是一次本机快照，不是官方 marketplace 索引。
+- `.system` 目录表示导出时本机已有的系统内置 skills。
+- `external-pua/` 单独存放，方便和主 `skills/` 目录区分。
 
-## Category overview
+## 分类总览
 
-### Core and system
+### 核心与系统
 
 - `.system`
 - `agents-md`
@@ -47,7 +47,7 @@ external-pua/
 - `orchestration`
 - `plan-work`
 
-### Coding and engineering
+### 编码与工程
 
 - `aspnet-core`
 - `branch-cleaner`
@@ -72,7 +72,7 @@ external-pua/
 - `yeet`
 - `zai-cli`
 
-### Frontend, design, and UI
+### 前端、设计与界面
 
 - `figma`
 - `figma-code-connect-components`
@@ -89,7 +89,7 @@ external-pua/
 - `web-design-guidelines`
 - `winui-app`
 
-### Browser, app, and automation
+### 浏览器、应用与自动化
 
 - `dashboard-skill`
 - `dev-browser`
@@ -105,7 +105,7 @@ external-pua/
 - `sentry`
 - `vps-checkup`
 
-### Content and media
+### 文档、数据与多媒体
 
 - `doc`
 - `imagegen`
@@ -119,7 +119,7 @@ external-pua/
 - `video-transcript-downloader`
 - `youtube-transcribe-skill`
 
-### Cloud, deploy, and platform
+### 云平台与部署
 
 - `cloudflare-deploy`
 - `deploy-to-vercel`
@@ -127,13 +127,13 @@ external-pua/
 - `vercel-cli-with-tokens`
 - `vercel-deploy`
 
-### Security
+### 安全
 
 - `security-best-practices`
 - `security-ownership-map`
 - `security-threat-model`
 
-### Productivity and knowledge
+### 知识与效率
 
 - `notion-knowledge-capture`
 - `notion-meeting-intelligence`
@@ -141,11 +141,11 @@ external-pua/
 - `notion-spec-to-implementation`
 - `spreadsheet`
 
-### Special / custom
+### 特殊 / 自定义
 
 - `pua`
 
-## External pua repo skills
+## 外部 pua 仓库 skills
 
 - `pua`
 - `pua-en`
