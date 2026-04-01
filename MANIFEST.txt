@@ -39,6 +39,7 @@ imagegen
 jupyter-notebook
 kiro-skill
 linear
+mcdonalds-mcp-order-lite
 nanobanana-skill
 netlify-deploy
 notion-knowledge-capture

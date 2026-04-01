@@ -65,6 +65,7 @@
 - `jupyter-notebook`
 - `kiro-skill`
 - `linear`
+- `mcdonalds-mcp-order-lite`
 - `playwright`
 - `playwright-interactive`
 - `render-deploy`

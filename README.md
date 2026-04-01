@@ -13,7 +13,7 @@
 
 ## 当前数量
 
-- 本地 skills：`81`
+- 本地 skills：`82`
 - 外部 `pua` skills：`3`
 
 ## 目录结构
@@ -98,6 +98,7 @@ external-pua/
 - `jupyter-notebook`
 - `kiro-skill`
 - `linear`
+- `mcdonalds-mcp-order-lite`
 - `playwright`
 - `playwright-interactive`
 - `render-deploy`
