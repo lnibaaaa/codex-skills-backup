@@ -13,7 +13,7 @@
 
 ## 当前数量
 
-- 本地 skills：`82`
+- 本地 skills：`85`
 - 外部 `pua` skills：`3`
 
 ## 目录结构
@@ -83,6 +83,10 @@ external-pua/
 - `figma-implement-design`
 - `figma-use`
 - `frontend-skill`
+- `jobs-mode`
+- `jobs-product-critique`
+- `jobs-soul`
+- `jobs-ui-rewrite`
 - `react-best-practices`
 - `react-native-skills`
 - `ui-ux-pro-max`

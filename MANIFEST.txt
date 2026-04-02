@@ -36,6 +36,10 @@ gastown
 gh-address-comments
 gh-fix-ci
 imagegen
+jobs-mode
+jobs-product-critique
+jobs-soul
+jobs-ui-rewrite
 jupyter-notebook
 kiro-skill
 linear

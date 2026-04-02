@@ -50,6 +50,10 @@
 - `figma-implement-design`
 - `figma-use`
 - `frontend-skill`
+- `jobs-mode`
+- `jobs-product-critique`
+- `jobs-soul`
+- `jobs-ui-rewrite`
 - `react-best-practices`
 - `react-native-skills`
 - `ui-ux-pro-max`
