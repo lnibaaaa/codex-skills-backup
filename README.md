@@ -13,7 +13,7 @@
 
 ## 当前数量
 
-- 本地 skills：`85`
+- 本地 skills：`87`
 - 外部 `pua` skills：`3`
 
 ## 目录结构
@@ -99,6 +99,7 @@ external-pua/
 - `dev-browser`
 - `develop-web-game`
 - `gastown`
+- `igame-skill`
 - `jupyter-notebook`
 - `kiro-skill`
 - `linear`
@@ -149,6 +150,7 @@ external-pua/
 ### 特殊 / 自定义
 
 - `pua`
+- `igame-skill`
 
 ## 外部 pua 仓库 skills
 

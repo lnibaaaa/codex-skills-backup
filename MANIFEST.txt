@@ -35,6 +35,7 @@ frontend-skill
 gastown
 gh-address-comments
 gh-fix-ci
+igame-skill
 imagegen
 jobs-mode
 jobs-product-critique

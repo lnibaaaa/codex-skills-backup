@@ -1,0 +1,6 @@
+{
+  "name": "igame-skill",
+  "version": "0.1.0",
+  "description": "OpenClaw Skill for iGame — 1090 API routes",
+  "engines": { "node": ">=18" }
+}

@@ -66,6 +66,7 @@
 - `dev-browser`
 - `develop-web-game`
 - `gastown`
+- `igame-skill`
 - `jupyter-notebook`
 - `kiro-skill`
 - `linear`
@@ -115,6 +116,7 @@
 
 ### 自定义家族
 
+- `igame-skill`
 - `pua`
 - `external-pua/pua`
 - `external-pua/pua-en`
